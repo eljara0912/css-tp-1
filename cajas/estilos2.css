@@ -1,0 +1,14 @@
+.container {
+    background-color:cadetblue ;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(0, 255, 242); 
+    border-bottom: 15px;
+    padding: 15px;
+    margin: 25px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,1);
+
+}
