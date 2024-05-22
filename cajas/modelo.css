@@ -1,0 +1,78 @@
+body {
+    background-color: #6DADDE;
+    color: #996DDE;
+    /* Hola chicos soy el diseñador, se van a joder pq no pienso dejar ningun mas comentario en este proyecto, estudien lo que hice sin ayuda ejejejeje */
+    text-align: center;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+header {
+
+background-color: #5B52E6;
+color: white;
+
+
+}
+h1 {
+    font-size: 3em;
+}
+nav ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}   
+nav ul li {   
+    display:inline-block;  
+    padding: 10px;
+    border: 1px solid rgb(255, 255, 255);
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin: 20px 30px;
+    background-color: #8EDFCC;
+    box-shadow: 5px 5px 10px black;
+    text-align: left;
+
+}
+h2 {
+    font-size: 3em;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+
+}
+main section h2{
+    margin-left: 10px;
+}
+footer {
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+}
+footer ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    
+} 
+footer ul li {
+    display:inline-block;  
+}
+.icono {
+    width: 25px;
+    height: 25px;
+    margin: 20px;
+}
+.div1 {
+    display: flex;
+}
+.img1  {
+    margin: 15px;
+}
