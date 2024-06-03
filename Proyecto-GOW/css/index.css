@@ -65,11 +65,17 @@ h2 {
     font-family: 'Times New Roman', Times, serif;
 }
 footer {
-    background-color: #ffffff;
+    background-color: #332B2B;
     margin-top: 20px;
+   
 }
-footer ul li
+footer ul
 {
-   text-align: center;
-   display:inline-block;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+footer ul li {
+    padding: 31px;
+    
 }
